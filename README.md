@@ -1,5 +1,5 @@
 # grrpow
-testing lul
+testing git
 
         $ ls
         prr x
