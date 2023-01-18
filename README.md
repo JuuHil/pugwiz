@@ -8,3 +8,4 @@ Hello world test
         ![Kuva1 ](bns.jpg)
 
  ![Add file: Upload](upload-bns.jpg)
+ ![Kuva1 ](bns.jpg)
